@@ -16,4 +16,5 @@
     border-bottom-right-radius: 50px;
     width: 30rem;
     color:red;
+    transition: 1.5s;
 }
